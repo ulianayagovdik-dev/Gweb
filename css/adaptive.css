@@ -1,0 +1,1174 @@
+@media screen and (min-width: 1px) and (max-width: 450px)  {
+/*  мобилка  */
+#preloader, .preloader-fill, .preloader-image, .preloader-percent{
+    display: none;
+}
+
+#first_screen{
+    height: 194vw;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.letters{
+    height: 90vw;
+    width: 98vw;
+    flex-wrap: wrap;
+    gap: 0vw;
+    justify-content: space-around;
+    padding-top: 57vw;
+}
+
+.top_line{
+    display: none;
+}
+
+.top_line_adaptive{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 10vw;
+}
+
+.top_line_adaptive > p{
+    font-size: 4vw;
+}
+
+.imgG, .imgR,.imgI, .imgB, .imgO, .imgC, .imgH, .imgE, .imgL, .imgLL, .imgA{
+    height: 44vw;
+    padding-left: 0.5vw;
+}
+
+.imgG{
+    width: 18vw;
+}
+
+.imgR{
+    width: 18vw;
+}
+
+.imgI{
+    width: 18vw;
+}
+
+.imgB{
+    width: 18vw;
+}
+
+.imgO{
+    width: 18vw;
+}
+
+.imgC{
+    width: 14vw;
+}
+
+.imgH{
+    width: 16vw;
+}
+
+.imgE{
+    width: 14vw;
+}
+
+.imgL{
+    width: 15vw;
+}
+
+.imgLL{
+    width: 15vw;
+}
+
+.imgA{
+    width: 16vw;
+}
+
+.tap_box{
+    rotate: 90deg;
+    position: relative;
+    margin-top: 0vw;
+    margin-left: 0vw;
+}
+
+.line_box{
+    position: relative;
+    margin-left: 0vw;
+    width: 104.44vw;
+    height: 79.78vw;
+}
+
+#second_anim{
+    position: relative;
+    width: 100vw;
+    height: 110vw;
+}
+
+    .Line1{
+        margin-top: -79vw;
+        margin-left: 86vw;
+        width: 16.44vw;
+        height: 75.56vw;
+    }
+
+    .Line2{
+        margin-top: -79vw;
+        margin-left: 18.5vw;
+        width: 66vw;
+        height: 11.56vw;
+    }
+
+    .Line3{
+        margin-top: -79vw;
+        margin-left: -5vw;
+        width: 30vw;
+        height: 65vw;
+    }
+        
+    .Line4{
+        margin-top: -12vw;
+        margin-left: 2vw;
+        width: 73.56vw;
+        height: 8.22vw;
+    } 
+        
+    .Line5{
+        margin-top: -49.5vw;
+        margin-left: 63.5vw;
+        width: 11.56vw;
+        height: 36vw;
+    }  
+
+    .Line6{
+        margin-top: -62vw;
+        margin-left: 44.5vw;
+        width: 32vw;
+        height: 11vw;
+    }  
+
+    .Line7{
+        margin-top: -62.2vw;
+        margin-left: 29vw;
+        width: 15vw;
+        height: 33vw;
+    }
+
+    .Line8{
+        margin-top: -29vw;
+        margin-left: 30.5vw;
+        width: 24vw;
+        height: 10vw;
+    } 
+
+    .Line9{
+        margin-top: -49.5vw;
+        margin-left: 46.5vw;
+        width: 15vw;
+        height: 20vw;
+    } 
+
+    .Line10{
+        margin-top: -28.2vw;
+        margin-left: 55vw;
+        width: 7vw;
+        height: 8vw;
+    } 
+
+    .Line11{
+        margin-top: -21vw;
+        margin-left: 19vw;
+        width: 43vw;
+        height: 9vw;
+    } 
+
+    .Line12{
+        margin-top: -63.2vw;
+        margin-left: 19vw;
+        width: 11vw;
+        height: 43vw;
+    } 
+
+     .Line13{
+        margin-top: -69.5vw;
+        margin-left: 19.5vw;
+        width: 55.5vw;
+        height: 10vw;
+    }
+
+     .Line14{
+        margin-top: -66vw;
+        margin-left: 77vw;
+        width: 7vw;
+        height: 63.33vw;
+    }
+
+.text_grib{
+    width: 70vw;
+    top: -70vw;
+    left: 6vw;
+}
+
+.m2, .m5{
+    display: none;
+}
+
+.m1{
+    height: 34vw;
+    width: 34vw;
+}
+
+.m3{
+    height: 40.44vw;
+    width: 20vw;  
+}
+
+.m4{
+    height: 30vw;
+    width: 30vw;
+}
+
+.mushrooms{
+    justify-content: center;
+    margin-left: 0vw;
+    margin-top: 20vw;
+    gap: 3.56vw;
+}
+
+.fromMush{
+    margin-left: 4vw;
+    margin-top: -13vw;
+    width: 90vw;
+    height: 20vw;
+}
+
+.pl_1, .plash1_1, .text1_1{
+    display: flex;
+}
+
+.pl1, .plash1, .text1{
+    display: none;
+}
+
+.pl1_1, .pl2, .pl3{
+    width: 29.33vw;
+    height: 14.44vw;
+}
+
+.pl2{
+    margin-left: 67vw;
+    margin-top: -58vw;
+    position: absolute;
+    align-items: center;
+    text-align: left;
+    position: relative;
+    transition: transform 0.4s ease;
+}
+ 
+.plash1_1, .plash2, .plash3{
+    width: 29.33vw;
+    height: 14.44vw;
+}
+
+.text1_1, .text2, .Ptext3{
+    position: absolute;
+    font-size: 2.8vw;
+    line-height: 3vw;
+    margin-left: 6.4vw;
+}
+.text2{
+    margin-top: 2.6vw ;}
+
+
+.plash1_1{
+    width: 32vw;
+    position: absolute;
+    left: 66vw;
+    position: absolute;
+    top: 4vw;
+}
+
+ .text1_1 {
+    left: 66.5vw;
+    top: 4.3vw;
+    z-index: 10;
+    color: #121211;
+    position: absolute;
+    font-family: "PTSans_regular";
+    font-size: 2.8vw;
+    display: flex;
+    font-size: 2.6vw;
+    height: 8vw;
+    width: 23vw;
+    line-height: 2.8vw;
+    }
+
+.line_facts{
+    overflow: hidden;
+    width: 100vw;
+    height: 158vw;
+}
+
+.line_drink{
+    width: 270vw;
+    height: 58vw;
+}
+.scroll_dr{
+    overflow: hidden;
+    margin-top: 14vw;
+    gap: 11.5vw;
+}
+
+.drink{
+    width: 30vw;
+    height: 30vw;
+}
+
+.blok{
+    margin-top: 11vw;
+    flex-direction: column;
+}
+
+.a{
+    width: 83.33vw;
+    height: 51.33vw;
+    margin-top: 6vw;
+    margin-left: 6vw;
+}
+
+.a_img{
+    width: 83.33vw;
+    height: 51.33vw;
+}
+
+.text3,
+.text3_1{
+    margin-left: 4.2vw;
+    width: 82vw;
+    height: 37.56vw;
+}
+
+#four_section{
+    overflow: hidden;
+    height: 200vw;
+    grid-template-columns: repeat(2, 50vw);
+}
+
+.diski{
+    grid-template-columns: repeat(2, 30vw);
+    gap: 4vw;
+    width: 0vw;
+    height: 40vw;
+    margin-left: 4vw;
+    margin-top: 4vw;
+}
+
+.di1{
+    width: 26vw;
+    height: 26vw;
+}
+
+.di2{
+    z-index: 10;
+    margin-left: -10vw;
+    margin-top: 33vw;
+    width: 18vw;
+    height: 18vw;
+}
+
+.di3{
+    top: 1vw;
+    left: 7vw;
+    width: 22vw;
+    height: 22vw;
+}
+
+.di4{
+    left: -31vw;
+    top: 33vw;
+    width: 22vw;
+    height: 22vw;
+}
+
+.note{
+    width: 3.5vw;
+}
+
+.v1{
+    margin-left: -15vw;
+    width: 90vw;
+    height: 75vw;
+}
+
+.v2{
+    margin-top: 24vw;
+    width: 90vw;
+    height: 70vw;
+}
+
+.bukvi{
+    margin-left: -10vw;
+    top: -13vw;
+}
+
+.bukvi_mask{
+    margin-top: 80vw;
+    margin-left: 40vw;
+}
+
+.not_disk, .vetka_one{
+    margin-top: 10vw;}
+
+.bukvi_mask, .bukvi{
+    grid-template-columns: repeat(2, 30vw);
+    height: 60vw;
+}
+
+line{
+    stroke-width: 0.8vw;
+}
+
+.l, .mask{
+    width: 25vw;
+    height: 25vw;
+}
+
+.l3{
+    top: -13vw;
+}
+
+.l2{
+    top: 3vw; 
+}
+
+.l4{
+    top: -7vw; 
+}
+
+.R1{
+    top: -2.4vw;
+}
+
+.I1{
+    top: -15.5vw;
+}
+
+.E1{
+    top: 0.5vw;
+}
+
+.B1{
+    top: -9.6vw;
+}
+
+.pl3, .vetka9{
+    display: none;
+}
+
+#fifth_section{
+    width: 100vw;
+    height: 155vw;
+}
+
+.plash_fortext{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 74.89vw;
+    height: 34.22vw;
+    margin: 0 auto;
+    margin-top: -33vw;
+    z-index: -1;
+}
+
+.plash4{
+    width: 74.89vw;
+    height: 34.22vw;
+}
+
+
+.text4{
+    display: flex;
+    position: absolute;
+    color: #121211;
+    font-size: 2.6vw;
+    width: 55vw;
+    top: 4.3vw;
+    height: 20vw;
+}
+
+.vetki{
+    margin-top: 43vw;
+    position: relative;
+    width: 100vw;
+    height: 45vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.v3{
+    margin-left: -10vw;
+    margin-top: 24vw;
+    width: 110vw;
+    height: 80vw;
+}
+
+.v4{
+    margin-left: -55vw;
+    margin-top: -40vw;
+    width: 100vw;
+    height: 80vw;
+}
+#six_section{
+    display: none;
+}
+
+
+.img_scroll{
+    width: 4200vw;
+    height: 30vw; 
+}
+
+.line_grib{
+    width: 300vw;
+    height: 40vw;
+}
+
+.scroll_line2{
+    width: 200vw;}
+
+.scroll_grib{
+    margin-top: 4vw;
+    width: 100%;
+    animation: line_gr 7s infinite linear;
+}
+
+#seven_section{
+    height: 70vw;
+    padding-top: 10vw;
+}
+
+#basement {
+  height: 70vw;
+}
+
+.content {
+    width: 120vw;
+    padding: 20px;
+    font-family: "PTSansBold";
+}
+
+h1{
+    width: 60vw;
+    color: #DE0004;
+    font-size: 5.8vw;
+    margin-top: 18vw;
+    margin-left: -3vw;
+}
+
+h2{
+    width: 70vw;
+    color: #39FF14;
+    font-size: 5.6vw;
+    margin-top: -15vw;
+}
+
+.img_basement{
+    width: 185vw;
+    height: 70vw;
+}
+
+.vetka5_copy{
+display: none;
+}
+.vetka6{
+    top: -6vw;
+    width: 68vw;
+    height: 51vw;
+    animation: v_rotate2 6s linear infinite;
+}
+
+.vetka7{
+    display: flex;
+    top: 37vw;
+    left: -4vw;
+    width: 77vw;
+    height: 68vw;
+    z-index: -100;
+    animation: v_rotate2 6s linear infinite;
+}
+.vetka8{
+    left: 43vw;
+    top: 96vw;
+    width: 81vw;
+    height: 61vw;
+    animation: v_rotate 5s linear infinite;
+}
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 451px) and (max-width: 768px) {
+/*    планшет мини */
+
+/* #preloader, .preloader-fill, .preloader-image, .preloader-percent{
+    display: none;
+} */
+
+.letters{
+    position: relative;
+    width: 97vw;
+    padding-top: 100vw;
+}
+
+#first_screen{
+    height: 136vw;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.imgG, .imgR,.imgI, .imgB, .imgO, .imgC, .imgH, .imgE, .imgL, .imgLL, .imgA{
+    width: 8.5vw;
+    height: 23vw;
+}
+
+#second_anim{
+    height: 115vw;
+    overflow: hidden;
+}
+
+#second_screen{
+    height: 75vw;
+    overflow: hidden;
+}
+
+p{font-size: 1.9vw;}
+
+.tap_box{
+    position: relative;
+    margin-top: 0vw;
+    margin-left: -5vw;
+}
+
+.line_box{
+    position: relative;
+   margin-left: 10vw;
+   width: 89.71vw;
+   height: 68.49vw;
+}
+
+
+    .Line1{
+        margin-top: 0.9vw;
+        margin-left: -40.5vw;
+        width: 64.84vw;
+        height: 66vw;
+    }
+
+    .Line2{
+        margin-top: 0.9vw;
+        margin-left: -73.9vw;
+        width:58vw;
+        height: 9.90vw;
+    }
+
+    .Line3{
+        margin-top: 0.9vw;
+        margin-left: -109vw;
+        width: 56.38vw;
+        height: 56.38vw;
+    }
+        
+    .Line4{
+        margin-top: 50vw;
+        margin-left: -87.4vw;
+        width: 64vw;
+        height: 25vw;
+    } 
+        
+    .Line5{
+        margin-top: 26.2vw;
+        margin-left: -59vw;
+        width: 60.60vw;
+        height: 32vw;
+    }  
+
+    .Line6{
+        margin-top: 15.5vw;
+        margin-left: -49.5vw;
+        width: 26vw;
+        height: 10vw;
+    }  
+
+    .Line7{
+        margin-top: 16vw;
+        margin-left: -73vw;
+        width: 34vw;
+        height: 31vw;
+    }
+
+    .Line8{
+        margin-top: 44vw;
+        margin-left: -61.5vw;
+        width: 21vw;
+        height: 14vw;
+    } 
+
+    .Line9{
+        margin-top: 21.5vw;
+        margin-left: -49.5vw;
+        width: 14.7vw;
+        height: 31vw;
+    } 
+
+    .Line10{
+        margin-top: 48vw;
+        margin-left: -41vw;
+        width: 8vw;
+        height: 6vw;
+    } 
+
+    .Line11{
+        top: 18vw;
+        left: 75vw;
+        width: 39vw;
+        height: 3vw;
+    } 
+
+    .Line12{
+        top: 3.8vw;
+        left: 75.8vw;
+        width: 10vw;
+        height: 42vw;
+    } 
+
+     .Line13{
+        margin-top: 10.7vw;
+        margin-left: -61.5vw;
+        width: 38vw;
+        height: 5vw;
+    }
+
+     .Line14{
+        margin-top: 11vw;
+        margin-left: -22.3vw;
+        width: 5.60vw;
+        height: 56vw;
+    } 
+
+.text_grib{
+    top: -65vw;
+    left: 2vw;
+    width: 75vw;
+}
+
+.vetka5, .vetka9{
+    display: none;
+}
+
+.vetka5_copy{
+    display: flex;
+    position: absolute;
+    top: 25vw;
+    left: 40vw;
+    width: 77vw;
+    height: 48vw;
+    z-index: -100;
+}
+
+.vetka6{
+    left: -10vw;
+    top: -54vw;
+    z-index: -10;
+    width: 74vw;
+    height: 43vw; 
+}
+
+.fromMush{
+    z-index: -1;
+}
+
+.m5{
+    display: none;
+}
+
+.mushrooms{
+    margin-left: 9vw;
+    margin-top: 10vw;
+    gap: 1.5vw;
+}
+
+.mush{
+    z-index: 10;
+}
+
+.m1{
+    height: 25.65vw;
+    width: 24.35vw;
+}
+
+.m2{
+    height: 23.83vw;
+    width: 18.36vw;
+}
+
+.m3{
+    height: 31.38vw;
+    width: 14.45vw;  
+}
+
+.m4{
+    height: 24.22vw;
+    width: 20.96vw;
+}
+
+.line_facts{
+    height: 97vw;
+}
+
+.drink{
+    width: 14.58vw;
+    height: 16.93vw;
+}
+
+.line_drink{
+    width: 180vw;
+    height: 24.74vw;
+}
+
+.scroll_dr{
+    margin-top: 3vw;
+    width: 100%;
+    position: relative;
+    display: flex;
+    gap: 4.04vw;
+}
+
+.text3,
+.text3_1{
+    width: 54.56vw;
+    height: 25vw;
+    margin-left: 4vw;
+}
+
+/* .text3_1{
+    left: 5.29vw;
+} */
+
+.a{
+    width: 52.60vw;
+    height: 32.42vw;
+    margin-top: 29vw;
+    margin-left: -15vw;
+}
+
+.a_img{
+     width: 52.60vw;
+    height: 32.42vw;
+}
+
+#four_section{
+    overflow: hidden;
+    height: 115vw;
+    display: grid;
+    grid-template-columns: repeat(2, 55vw);
+}
+
+.note{
+    width: 3vw;
+}
+
+.diski{
+    grid-template-columns: repeat(2, 23vw);
+    width: 20vw;
+    height: 50vw;
+    /* margin-left: 3vw;
+    margin-top: 3vw; */
+}
+
+
+.di1,.di4{
+    width: 23vw;
+    height: 20vw;
+}
+
+.di3{
+    margin-left: 2vw;
+    margin-top: 7vw;
+}
+
+.di4{
+    margin-top: 11vw;
+}
+
+.di2{
+    z-index: 1;
+    margin-left: 5vw;
+    margin-top: -3vw;
+}
+
+.di2, .di3{
+    width: 15vw;
+    height: 15vw;
+}
+
+.v1{
+    margin-left: -15vw;
+    margin-top: 2vw;
+    width: 70vw;
+    height: 48vw;
+}
+
+.v2{
+    width: 68.62vw;
+    height: 43.88vw;
+}
+
+.bukvi{
+    position: relative;
+    margin-left: 0vw;
+    top: -10vw;
+}
+
+.bukvi_mask{
+    position: absolute;
+    margin-top: 48.6vw;
+    margin-left: 52.1vw;
+}
+
+.bukvi_mask, .bukvi{
+    grid-template-columns: repeat(2, 25vw);
+    height: 60vw;
+}
+
+.l3{
+    top: -13vw;
+}
+
+.l2{
+    top: 3vw; 
+}
+
+.l4{
+    top: -7vw; 
+}
+
+.hide{opacity: 0;}
+
+.mask{
+    z-index: -1;
+    transition: opacity 0.6s ease;
+    left: 2.99vw;
+}
+
+.R1{
+    top: -2.4vw;
+}
+
+.I1{
+    top: -15.5vw;
+}
+
+.E1{
+    top: 0.5vw;
+}
+
+.B1{
+    top: -9.6vw;
+}
+
+.l, .mask{
+    width: 17vw;
+    height: 19.6vw;
+}
+
+.pl1, .plash1, .text1{
+    display: none;
+}
+
+.pl3{
+   left: -12vw;
+    margin-top: -98vw;
+}
+
+.pl_1, .plash1_1, .text1_1{
+    display: flex;
+}
+
+.pl1_1{
+    display: flex;
+    z-index: 10;
+    left: -15vw;
+    top: -20vw;
+    z-index: 2;
+}
+
+.pl1_1, .pl2, .pl3{
+    z-index: 1;
+    width: 25vw;
+    height: 11.85vw;
+}
+
+.plash2, .plash3{
+    width: 32vw;
+    height: 14vw;
+}
+
+.plash1_1{
+    position: absolute;
+    left: 66vw;
+    position: absolute;
+    top: 4vw;
+    width: 30vw;
+    height: 15vw;
+}
+
+.text2, .Ptext3{
+    font-size: 2.4vw;
+    line-height: 2.2vw;
+    margin-left: 5.7vw;
+}
+
+.Ptext3{
+    top: 1.4vw;
+    left: 2vw;
+    width: 20vw;
+}
+
+ .text2{
+    top: 1.7vw;
+    left: 1vw;
+}
+
+.text1_1{
+    z-index: 10;
+    color: #121211;
+    position: absolute;
+    font-family: "PTSans_regular";
+    top: 5.2vw;
+    left: 72.5vw;
+    width: 22vw;
+    font-size: 2.4vw;
+    line-height: 2.2vw;
+}
+
+.v3{
+    width: 62vw;
+    height: 52vw;
+}
+
+.v4{
+    width: 58vw;
+    height: 50vw;
+}
+
+.plash_fortext{
+    width: 63vw;
+    height: 25vw;
+}
+
+.plash4{
+    width: 63vw;
+    height: 25vw;
+}
+
+.text4{
+    position: absolute;
+    color: #121211;
+    font-size: 2.1vw;
+    width: 50vw;
+    top: 4vw;
+    left: 6.8vw;
+    display: flex;
+}
+
+.ticket{
+    height: 30vw; 
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.ticket > img{
+    width: 85.16vw;
+    height: 25.13vw; 
+}
+
+.ticket_form{
+    gap: 0.78vw;
+    width: 20.70vw;
+    height: 7.42vw;
+}
+
+.list, input{
+    font-size: 1.95vw;
+    width: 20.70vw;
+    height: 3.39vw;
+}
+
+.txt_list{
+    font-size: 1.95vw;
+    width: 20.70vw;
+    height: 3.39vw;
+}
+
+#fifth_section{ 
+    height: 55vw;
+}
+
+#six_section{
+    height: 45vw;
+}
+
+.header_pass_img{
+    width: 56.51vw;
+    height: 8.98vw;
+}
+
+.header_pass_img2{
+    margin-top: -9vw;
+    margin-left: 21.75vw;
+    width: 56.51vw;
+    height: 8.98vw;
+}
+
+.line_grib{
+    position: absolute;
+    z-index: -1;
+    width: 120vw;
+    height: 17vw;
+    overflow: hidden;
+}
+
+.img_scroll{
+    width: 270vw;
+    height: 14vw; 
+}
+
+h1, h2{
+    font-size: 3.49vw;
+}
+}
+
+@media screen and (min-width: 769px) and (max-width:  1366px) {
+/*  планшет про */
+}
+
+@media screen and (min-width:  1366px) and (max-width: 1440px) {
+/* маленькие ноуты */
+}
+
+@media screen and (min-width: 1441px) and (max-width: 1920px) {
+/* desctop */
+}
+
+@media screen and (min-width: 1921px) {
+} 
